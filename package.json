@@ -1,0 +1,11 @@
+{
+  "name": "cosmos-proxy",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "npm install"
+  },
+  "dependencies": {
+    "@titaniumnetwork-dev/ultraviolet": "^3.2.10",
+    "ultraviolet-static": "^1.0.5"
+  }
+}
